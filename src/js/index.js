@@ -32,5 +32,5 @@ listaSelecaoPokedevs.forEach(pokedev => {
         const PokedevSelecionadoNaListagem = document.getElementById(idPokedevSelecionado);
         PokedevSelecionadoNaListagem.classList.add('ativo')
     })
-}) //para cada pokedev, ele printa o pokedev
+})
  
