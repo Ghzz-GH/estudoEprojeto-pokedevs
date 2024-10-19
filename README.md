@@ -10,7 +10,7 @@
 
 <br></br>
 <h3>Interação do usuário</h3>
-<h5>Como mostrado no vídeo a seguir, o usuário pode interagir com a lista à esquerda e selecionar qual PokeDev ele deseja observar a cartinha.</h5>
+<h5>Como mostrado no vídeo a seguir, o usuário pode interagir com a lista à direita e selecionar qual PokeDev ele deseja observar a cartinha.</h5>
 
 https://github.com/user-attachments/assets/0b17a6fd-4f46-47b5-8a5b-e2e3e5854ed8
 
